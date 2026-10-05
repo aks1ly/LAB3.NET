@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|c:\\users\\alexa\\desktop\\.net\\lab3.net\\lab3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|c:\\users\\alexa\\desktop\\.net\\lab3.net\\lab3\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|solutionrelative:designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|c:\\users\\alexa\\desktop\\.net\\lab3.net\\lab3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|c:\\users\\alexa\\desktop\\.net\\lab3.net\\lab3\\employeeanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|solutionrelative:employeeanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|c:\\users\\alexa\\desktop\\.net\\lab3.net\\lab3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F89250-D36D-4487-B25E-72855615100E}|..\\Lab3.Tests\\Lab3.Tests.csproj|c:\\users\\alexa\\desktop\\.net\\lab3.net\\lab3.tests\\designertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F89250-D36D-4487-B25E-72855615100E}|..\\Lab3.Tests\\Lab3.Tests.csproj|c:\\users\\alexa\\desktop\\.net\\lab3.net\\lab3.tests\\employeeanalysistests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F89250-D36D-4487-B25E-72855615100E}|..\\Lab3.Tests\\Lab3.Tests.csproj|c:\\users\\alexa\\desktop\\.net\\lab3.net\\lab3.tests\\programmertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|c:\\users\\alexa\\desktop\\.net\\lab3.net\\lab3\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09DAFE7-D27C-4EB9-9476-8467309270D3}|Lab3.csproj|solutionrelative:programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeAnalysisTests.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3.Tests\\EmployeeAnalysisTests.cs",
+              "RelativeDocumentMoniker": "..\\Lab3.Tests\\EmployeeAnalysisTests.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3.Tests\\EmployeeAnalysisTests.cs",
+              "RelativeToolTip": "..\\Lab3.Tests\\EmployeeAnalysisTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:38:43.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\EmployeeAnalysis.cs",
+              "RelativeDocumentMoniker": "EmployeeAnalysis.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\EmployeeAnalysis.cs",
+              "RelativeToolTip": "EmployeeAnalysis.cs",
+              "ViewState": "AgIAAAEAAACAAgAAAAARwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:37:45.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesignerTests.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3.Tests\\DesignerTests.cs",
+              "RelativeDocumentMoniker": "..\\Lab3.Tests\\DesignerTests.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3.Tests\\DesignerTests.cs",
+              "RelativeToolTip": "..\\Lab3.Tests\\DesignerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:36:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\Designer.cs",
+              "RelativeDocumentMoniker": "Designer.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\Designer.cs",
+              "RelativeToolTip": "Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:34:48.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProgrammerTests.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3.Tests\\ProgrammerTests.cs",
+              "RelativeDocumentMoniker": "..\\Lab3.Tests\\ProgrammerTests.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3.Tests\\ProgrammerTests.cs",
+              "RelativeToolTip": "..\\Lab3.Tests\\ProgrammerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:26:43.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Programmer.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\Programmer.cs",
+              "RelativeDocumentMoniker": "Programmer.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\Programmer.cs",
+              "RelativeToolTip": "Programmer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:21:40.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAMDMzMzPbvxUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:18:41.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-05T04:17:22.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\.NET\\Lab3.NET\\Lab3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:17:22.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
